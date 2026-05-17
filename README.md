@@ -7,7 +7,7 @@ Biomedical researcher · builder · preparing for German medical school (TMS, Ma
 I work at the intersection of **biomedical research**, **AI tooling**, and **medicine**. The through-line: a proof-of-concept for iPSC-based personalized medicine workflows (since 2024) — and tools for the next generation of life scientists.
 
 [![Website](https://img.shields.io/badge/website-yaraismail.framer.website-000?style=flat-square)](https://yaraismail.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yaraismail/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yara-ismail-biotech/)
 [![Theioptera](https://img.shields.io/badge/Theioptera-sign_up-ff0000?style=flat-square)](https://theioptera.lovable.app/)
 
 ---
