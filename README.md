@@ -8,6 +8,7 @@ I work at the intersection of **biomedical research**, **AI tooling**, and **med
 
 [![Website](https://img.shields.io/badge/website-yaraismail.framer.website-000?style=flat-square)](https://yaraismail.framer.website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yara-ismail-biotech/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3668--8789-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3668-8789)
 [![Theioptera](https://img.shields.io/badge/Theioptera-sign_up-ff0000?style=flat-square)](https://theioptera.lovable.app/)
 
 ---
@@ -92,7 +93,7 @@ Intern — Java workshop; **ESG AI B2B app** (ThinkGreen Academy) — *Most Crea
 
 **Ponirakis G.**, Al-Janahi I., Elgassim E., **[...] Ismail Y.**, et al.  
 *Increased C-reactive protein is associated with corneal nerve loss and painful neuropathic symptoms in Type 2 diabetes mellitus.*  
-**Journal of Diabetes Investigation**, 2026. [doi:10.1111/jdi.70246](https://doi.org/10.1111/jdi.70246)
+**Journal of Diabetes Investigation**, 2026. [doi:10.1111/jdi.70246](https://doi.org/10.1111/jdi.70246) · [ORCID](https://orcid.org/0009-0001-3668-8789)
 
 ---
 
