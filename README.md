@@ -18,8 +18,20 @@ I work at the intersection of **biomedical research**, **AI tooling**, and **med
 | | |
 |---|---|
 | **Theioptera** | Experimentalist — building an OS for the next gen of life scientists |
+| [**Benchless Biotech**](https://github.com/Mmynemious/benchless-biotech-guide) | RAG case-study navigator (Jupyter + DeepSeek) for learners **without lab access** |
 | **Venu AI** | Advisor (Mar 2026 →) · formerly COO — onboarding, customer & sales support, events |
 | **Medicine** | TMS prep · physician–scientist path: iPSC research × neuro-ophthalmology |
+
+### How this GitHub grows
+
+```text
+Courses & trials  →  case study templates (corpus/)
+                 →  RAG navigator notebook  →  React guide (roadmap)
+Products (Theioptera, apps)  →  separate repos · proof of shipping
+Research & pubs  →  ORCID + pinned analysis repos
+```
+
+**This profile** = high-end **technical** narrative. Coursera and certificates live on [LinkedIn](https://www.linkedin.com/in/yara-ismail-biotech/); **repos** show systems thinking.
 
 ---
 
@@ -80,6 +92,7 @@ Intern — Java workshop; **ESG AI B2B app** (ThinkGreen Academy) — *Most Crea
 
 | Project | Description |
 |---------|-------------|
+| [**benchless-biotech-guide**](https://github.com/Mmynemious/benchless-biotech-guide) | Case-study corpus + RAG navigator for benchless biotech learners · DeepSeek · Jupyter |
 | [**Theioptera**](https://theioptera.lovable.app/) | AI-powered biomedical literature engine — OS for life scientists |
 | [**weather-app**](https://github.com/Mmynemious/weather-app) | Brutalist weather UI · React · Vite · WeatherAPI |
 | **BloomLog** | Daily learning tracker — plant a learning, watch it bloom |
@@ -119,6 +132,8 @@ Intern — Java workshop; **ESG AI B2B app** (ThinkGreen Academy) — *Most Crea
 
 ## GitHub highlights
 
-Pinned repos reflect what I want visible first — research code, apps, and course work. Private repos are experiments and client work.
+**Suggested pins:** `benchless-biotech-guide` · `weather-app` · `ESMFold-docking` or `Peto-s-Paradox-Research-Idea` · `BBB-Gene-Conservation` · `Prompt_Engineering` · `ML_Specialisation_Course_By_Deeplearning.ai`
+
+Private repos = experiments and client work. Public repos = **technical proof**.
 
 <sub>North star: physician-scientist at the intersection of iPSC research and neuro-ophthalmology · Germany → medicine → research</sub>
